@@ -60,6 +60,10 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" title="Kubernetes"/>
 </p>
 
+**Fullstack Development**
+
+[![](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg "HTML5")](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg "CSS3")](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg "React")](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg "Node.js")](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) [![](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg "Express")](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)
+
 **Languages**
 
 <p align="left">
